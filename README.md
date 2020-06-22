@@ -1,5 +1,8 @@
 # Movie Database Analysis 
 
+By Josh R and Colm F
+
+
 ## Business Question
 
 Microsoft is creating a new movie studio and we were tasked with providing insights to help them understand the movie industry. Specifically, we tasked with exploring online, public movies databases to find actionable insights to help Microsoft determine what type of films to create.
