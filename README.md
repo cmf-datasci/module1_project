@@ -10,7 +10,7 @@ Given this, we addressed three questions:
 - What is the relationship between production budget and box office revenue?
 - What actors/actresses should Microsoft hire for their initial movies?
 
-##Recommendations
+## Recommendations
 
 To summarize, we found the following:
     
@@ -18,7 +18,7 @@ To summarize, we found the following:
 - There is a correlation between box office success and larger production budgets. Many of these films tend to Disney films. Therefore, Microsoft should focus on larger production budget films
 - Some actors/actresses have a strong track record of producing very popular films. Therefore, Microsoft should aim to hire: Winston Duke, Sean Gunn, Alfie Allen, Danai Gurira, Kerry Condon and Florence Kasumba.
 
-##Next Steps
+## Next Steps
 
 If we had more time, we would do the following:
     
